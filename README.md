@@ -16,7 +16,7 @@ An backend app for voter written in Golang, to store the votes.
 
 ### Election Commission
 
-An frontend to manage the election candidates and uses ecserver as backend to store candidates lists.
+An frontend to manage the election candidates and uses ecserver as backend to store candidates lists
 
 Depends on: ecserver
 
